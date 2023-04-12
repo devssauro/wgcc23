@@ -47,6 +47,9 @@ and debug the application on pycharm
 Create all tables on database
 > `flask db upgrade`
 
+After that, you just need to debug `run_debug.py` on pycharm
+and the application is ready to work
+
 ## Unit tests
 
 To run the unit tests locally use the command:
