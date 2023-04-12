@@ -1,0 +1,10 @@
+flask~=2.2.3
+flask-migrate
+flask-socketio==5.3.3
+flask-sqlalchemy
+psycopg2-binary
+pytest
+python-decouple
+python-dotenv
+sqlalchemy~=2.0.9
+alembic~=1.10.3
