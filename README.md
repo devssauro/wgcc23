@@ -43,6 +43,10 @@ Then set up the `.env` using the `.env.example` file with the env vars needed to
 `postgresql://postgres:postgres@localhost:5434/db_wg` to `SQLALCHEMY_DATABASE_URI`
 and debug the application on pycharm
 
+
+Create all tables on database
+> `flask db upgrade`
+
 ## Unit tests
 
 To run the unit tests locally use the command:
